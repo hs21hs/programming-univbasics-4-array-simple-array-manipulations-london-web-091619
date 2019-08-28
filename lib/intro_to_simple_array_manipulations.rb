@@ -17,4 +17,5 @@ array.pop(2)
 end
 
 using_shift
+shift_with_args
 
