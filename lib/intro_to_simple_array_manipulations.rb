@@ -12,10 +12,10 @@ end
 
 pop_with_args(array,y=2)
 x=0 
-while x<y
+while (x<y){
 array.pop
-y=y+1
+y=y+1}
 end
-end
+
 
 
