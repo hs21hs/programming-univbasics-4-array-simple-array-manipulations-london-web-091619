@@ -16,6 +16,10 @@ array.pop(2)
 
 end
 
-using_shift
-shift_with_args
+def using_shift(array)
+  array.shift
+end
+  
+def shift_with_args(array)
+  array.shift(2)
 
