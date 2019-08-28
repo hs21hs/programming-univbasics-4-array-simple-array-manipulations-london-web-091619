@@ -16,4 +16,5 @@ array.pop(2)
 
 end
 
+using_shift
 
