@@ -31,11 +31,11 @@ end
 def using_insert(array, element)
   array.insert[4](element)
 end
-
+=begin
 def using_uniq(arary)
 array.uniq
 end
-=begin
+
 def using_flatten(array)
   array.flatten 
 end
