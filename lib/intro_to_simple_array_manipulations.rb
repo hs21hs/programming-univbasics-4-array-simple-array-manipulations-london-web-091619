@@ -33,7 +33,7 @@ def using_insert(array, element)
 end
 
 def using_uniq(array)
-array.uniq{ |s| s.first }
+array.uniq{ |s| s.to_s }
 end
 
 def using_flatten(array)
