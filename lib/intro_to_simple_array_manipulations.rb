@@ -35,12 +35,12 @@ end
 def using_uniq(arary)
 array.uniq!
 end
-=begin
+
 def using_flatten(array)
   array.flatten 
 end
 
-
+=begin
 
 def using_delete(array,string)
   array.delete(string)
